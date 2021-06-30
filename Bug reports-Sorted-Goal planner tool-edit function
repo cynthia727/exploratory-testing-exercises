@@ -1,0 +1,20 @@
+# Summary:
+In Amount box, the message to inform the rule of typing sometimes not appear.
+
+# Steps to reproduce:
+1. Drag a item to Edit section
+2. Type any letter eg. ***50,000*** in the **Amount** box
+3. Click **Ok**
+
+# Expected result
+Message ***Please enter a number with no decimals, commas, spaces or symbols.*** will show becide the **Amount** box, to inform user not type ***,***
+
+# Actual result
+Message didn't appeard
+
+# Broswer
+Chrome
+
+# Screenshots
+
+
